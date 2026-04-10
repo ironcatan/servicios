@@ -1,0 +1,26 @@
+{
+    "id": "PR-A-999",
+    "name": "Subida al Santuario de la Virgen de Araceli, desde Lucena",
+    "updatedAt": "2026-03-17 09:53:39",
+    "thumbnail": false,
+    "type": "PR",
+    "distanceKm": 14.99,
+    "difficulty": "hard",
+    "durationMinutes": 158,
+    "municipality": ["Municipio #6"],
+    "description": "Ruta circular desde Lucena pasando por:\n- Fuente de la Virgen (1.9 km)\n- Fuente de La Plata (3.9 km)\n- Santuario Virgen De Araceli (9.2 km)\n\nRECORRIDO.\nSalida de la localidad por la carretera del santuario, hasta llegar a la Primera Cruz. En este punto nos desviamos a la CO-7216, que recorremos sólo unos cientos de metros hasta desviarnos al camino que lleva la Fuente de La Plata. Continuamos todo ese camino que rodea la sierra de Araceli por su parte baja, por la cara sur.\n\nAl pasar la Cueva del Ángel, giro a derecha y empieza la subida fuerte hasta llegar al santuario. Después de disfrutar de las vistas y visita al santuario, bajamos porla carretera del santuraio hasta volver a llegar a la Primera Cruz, donde hacemos un giro a izquierda y por medio de los olivares bajamos casi hasta el punto de inicio de la ruta.\n\nEl recorrido está bien, con la única salvedad de que tiene mucho asfalto/hormigón para quienes disfrutamos más en tierra. Por lo demás, muy recomendable.\n\nPUNTO DE INTERÉS EN LA RUTA:\nSANTUARIO DE LA VIRGEN DE ARACELI: Desde su mirador se pueden observar tierras de cinco provincias. En su interior se puede admirar a Mª. Stma. De Araceli. También destacan su cúpula de yeserías, y sobre todo el camarín que alberga a la Virgen. Ruta del Barroco. Siglo XVIII.\n\nEl Santuario de la Virgen de Araceli se erigió a principios del S. XVII y fue barroquizado el el XVIII. Templo de tres naves con crucero. La nave central es más ancha y elevada, esta nave alberga un coro.\n\nEl origen de esta devoción se remonta a la segunda mitad del siglo XVI, cuando el Marqués de Comares trajo de Roma una imagen de Ntra. Sra. de Araceli. A raíz de esto se construyó una ermita a 6 kilómetros de la población, en la cima de la sierra, donde recibiría culto la imagen. El primitivo edificio, hoy desaparecido, debió ubicarse en las cercanías del actual.\n\nEn los primeros años del siglo XVII ésta quedó pequeña debido al incremento de la devoción a la Virgen de Araceli, si bien los trabajos de construcción se alargaron hasta finales de la centuria, prolongándose la labor decorativa y reformas en el exterior durante el siglo XVIII. También en el siglo XVIII se levantó la nueva espadaña y la portada actual, realizada en 1765 . Fuente: https://andaluciarustica.com/lucena-santuario-de-la-virgen-de-araceli.htm\n\nIMPORTANTE:\nLa ruta aquí descrita, así como el track para GPS son orientativos. Queda bajo la responsabilidad de quién la realice tomar las medidas de seguridad apropiadas para el itinerario, que dependerán de las condiciones climatológicas, así como de la preparación tanto técnica como física de la persona que la lleve a cabo. Todo lo indicado en esta ruta (track y comentarios) es, meramente, a nivel informativo y sin ningún otro tipo de ánimo por parte del autor, quedando éste exento de responsabilidad alguna, ante cualquier percance o accidente que pudiera sufrir quién, por voluntad propia o inducida, realice la ruta.",
+    "recommendations": {
+        "clothing": "Ropa de montaña",
+        "water": "Mínimo 2L",
+        "precautions": "Evitar con viento fuerte"
+    },
+    "gpxUrl": "https://github.com/ironcatan/servicios/blob/main/santuario.gpx",
+    "images": [
+        "https://www.caminosdepasion.com/wp-content/uploads/cache/images/santuario_araceli_aerea_lucena-caminos-de-pasion/santuario_araceli_aerea_lucena-caminos-de-pasion-4265952352.jpg"
+    ],
+    "flora": ["Pinsapo"],
+    "fauna": ["Cabra montés"],
+    "landscape": "Alta montaña",
+    "culture": "Camino histórico",
+    "wikilocUrl": "https://www.wikiloc.com/"
+}
